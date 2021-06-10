@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 梁晨
+    name: Chen Liang
     tagline: 
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -22,7 +22,7 @@ sidebar:
         level: 510分
 
 career-profile:
-    title: 个人总结
+    title: Career Profile
     summary: |
       - 熟悉Verilog HDL语言设计数字IC
       - 熟练使用Questasim，Vcs+Verdi，Design Compiler，Innovus等EDA工具
@@ -32,7 +32,6 @@ career-profile:
       - 在线简历：
 
 education:
-    title: 教育经历
     - degree: 软件工程（集成电路设计方向） 硕士 微电子学院
       university: 西安电子科技大学
       time: 2019.09 - 2022.07
@@ -49,7 +48,6 @@ education:
           - 相关课程：数字电子技术，半导体集成电路，半导体物理
 
 experiences:
-    title: 实习经历
     - role: 客座学生
       time: 2020.07 - 2022.02
       company: 中科院深圳先进技术研究院
@@ -62,7 +60,7 @@ experiences:
           - 参与芯片DC综合工作，进行中
 
 projects:
-    title: 项目经历
+    title: Projects
     assignments:
       - title: EDA课程实践
         link: "#hook"

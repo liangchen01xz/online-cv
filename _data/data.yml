@@ -47,6 +47,7 @@ experiences:
           - LSTM（长短期记忆网络）模块设计，并集成进NN_ASIC芯片中，进行中
           - 基于SMIC 40nm LL工艺的NN_ASIC芯片后端物理设计，已迭代一次，进行中
           - 参与芯片DC综合工作，进行中
+          - 神经网络加速芯片计算结构优化设计以达到优化面积和功耗的目的，进行中
 
 projects:
     title: Projects

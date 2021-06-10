@@ -28,7 +28,6 @@ career-profile:
       - 熟练使用Questasim，Vcs+Verdi，Design Compiler，Innovus等EDA工具
       - 熟悉SPI和APB2.0协议
       - 拥有较强的自主学习能力，对未知的事物抱有好奇心
-      - 个人博客：https://liangchen01xz.github.io/
 
 education:
     - degree: MSc in Software Engineering
@@ -44,7 +43,6 @@ experiences:
       company: 中科院深圳先进技术研究院
       details: |
           - 独自进行NN_ASIC（神经网络加速器）VCS+Verdi 仿真环境搭建和脚本编写，已完成
-            https://liangchen01xz.github.io/2021/01/18/vcs-sim-scr/
           - SPI2APB模块设计，已完成
           - LSTM（长短期记忆网络）模块设计，并集成进NN_ASIC芯片中，进行中
           - 基于SMIC 40nm LL工艺的NN_ASIC芯片后端物理设计，已迭代一次，进行中
@@ -53,6 +51,10 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Vcs+Verdi Simulation Script
+        link: "https://liangchen01xz.github.io/2021/01/18/vcs-sim-scr/"
+        tagline: ""
+
       - title: EDA课程实践
         link: "https://liangchen01xz.github.io/2021/02/01/EDA-course-design/"
         tagline: ""

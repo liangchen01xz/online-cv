@@ -31,7 +31,8 @@ career-profile:
       - 个人博客：https://liangchen01xz.github.io/
       - 在线简历：
 
-教育经历：
+education：
+    title: 教育经历
     - degree: 软件工程（集成电路设计方向） 硕士 微电子学院
       university: 西安电子科技大学
       time: 2019.09 - 2022.07
@@ -47,7 +48,8 @@ career-profile:
           - 荣誉： 尚能修美先进个人、知行班二等奖、校三等奖学金、三好学生
           - 相关课程：数字电子技术，半导体集成电路，半导体物理
 
-实习经历:
+experiences:
+    title: 实习经历
     - role: 客座学生
       time: 2020.07 - 2022.02
       company: 中科院深圳先进技术研究院
@@ -59,7 +61,7 @@ career-profile:
           - 基于SMIC 40nm LL工艺的NN_ASIC芯片后端物理设计，已迭代一次，进行中
           - 参与芯片DC综合工作，进行中
 
-项目经历:
+projects:
     title: 项目经历
     assignments:
       - title: EDA课程实践

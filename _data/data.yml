@@ -54,19 +54,19 @@ projects:
     title: Projects
     assignments:
       - title: EDA课程实践
-        link: "#https://liangchen01xz.github.io/2021/02/01/EDA-course-design/"
+        link: "https://liangchen01xz.github.io/2021/02/01/EDA-course-design/"
         tagline: ""
 
       - title: Verilog课程设计
-        link: "#https://liangchen01xz.github.io/2021/02/02/verilog-course-design/"
+        link: "https://liangchen01xz.github.io/2021/02/02/verilog-course-design/"
         tagline: ""
 
       - title: FPGA驱动TFT屏显示图片
-        link: "#https://liangchen01xz.github.io/2020/03/18/FPGA-TFT-img-prj/"
+        link: "https://liangchen01xz.github.io/2020/03/18/FPGA-TFT-img-prj/"
         tagline: ""
 
       - title: Python爬取网络图片
-        link: "#https://liangchen01xz.github.io/2020/03/11/Python-Spider-prj/"
+        link: "https://liangchen01xz.github.io/2020/03/11/Python-Spider-prj/"
         tagline: ""
 
 skills:

@@ -7,184 +7,91 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 梁晨
+    tagline: 
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: liangchen01xz@foxmail.com
+    phone: 15155916117
+    website: liangchen01xz.github.io #do not add http://
+    github: liangchen01xz
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: CET-6
+        level: 510分
 
 career-profile:
-    title: Career Profile
+    title: 个人总结
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      - 熟悉Verilog HDL语言设计数字IC
+      - 熟练使用Questasim，Vcs+Verdi，Design Compiler，Innovus等EDA工具
+      - 熟悉SPI和APB2.0协议
+      - 拥有较强的自主学习能力，对未知的事物抱有好奇心
+      - 个人博客：https://liangchen01xz.github.io/
+      - 在线简历：
+
+教育经历：
+    - degree: 软件工程（集成电路设计方向） 硕士 微电子学院
+      university: 西安电子科技大学
+      time: 2019.09 - 2022.07
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - 学位课加权平均分：83.35
+          - 荣誉：一等学业奖学金（研一），三等学业奖学金（研二）
+          - 相关课程：数字集成电路设计，Verilog HDL设计与综合，EDA应用实践，SystemVerilog验证
+    - degree: 电子科学与技术 本科 自动化学院
+      university: 西安理工大学
+      time: 2015.09 - 2019.07
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+          - 专业排名：第九名（专业前 10%）
+          - 荣誉： 尚能修美先进个人、知行班二等奖、校三等奖学金、三好学生
+          - 相关课程：数字电子技术，半导体集成电路，半导体物理
+
+实习经历:
+    - role: 客座学生
+      time: 2020.07 - 2022.02
+      company: 中科院深圳先进技术研究院
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+          - 独自进行NN_ASIC（神经网络加速器）VCS+Verdi 仿真环境搭建和脚本编写，已完成
+            https://liangchen01xz.github.io/2021/01/18/vcs-sim-scr/
+          - SPI2APB模块设计，已完成
+          - LSTM（长短期记忆网络）模块设计，并集成进NN_ASIC芯片中，进行中
+          - 基于SMIC 40nm LL工艺的NN_ASIC芯片后端物理设计，已迭代一次，进行中
+          - 参与芯片DC综合工作，进行中
+
+项目经历:
+    title: 项目经历
     assignments:
-      - title: Velocity
+      - title: EDA课程实践
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "https://liangchen01xz.github.io/2021/02/01/EDA-course-design/"
 
-      - title: DevStudio
+      - title: Verilog课程设计
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "https://liangchen01xz.github.io/2021/02/02/verilog-course-design/"
 
-      - title: Tempo
+      - title: FPGA驱动TFT屏显示图片
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "https://liangchen01xz.github.io/2020/03/18/FPGA-TFT-img-prj/"
 
-      - title: Atom
+      - title: Python爬取网络图片
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "https://liangchen01xz.github.io/2020/03/11/Python-Spider-prj/"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能
 
     toolset:
-      - name: Python & Django
+      - name: Verilog
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Vim
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
 footer: >

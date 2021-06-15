@@ -24,53 +24,53 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - 熟悉Verilog HDL语言设计数字IC
-      - 熟练使用Questasim，Vcs+Verdi，Design Compiler，Innovus等EDA工具
-      - 熟悉SPI和APB2.0协议
-      - 拥有较强的自主学习能力，对未知的事物抱有好奇心
+      - Familiar with Verilog HDL digital IC design language
+      - Familiar with EDA tools such as Questasim, Vcs+Verdi, Design Compiler, Innovus, etc.
+      - Familiar with SPI and APB2.0 protocol
+      - Have strong self-learning ability and be curious about the unknown
 
 education:
-    - degree: MSc in Software Engineering
+    - degree: MEc in Software Engineering
       university: Xidian University
       time: 2019.09 - 2022.07
-    - degree: BSc in Electronic Science and Technology 
+    - degree: BEc in Electronic Science and Technology 
       university: Xi'an University of Technology
       time: 2015.09 - 2019.07
 
 experiences:
-    - role: 客座学生
+    - role: Visiting Student
       time: 2020.07 - 2022.02
-      company: 中科院深圳先进技术研究院
+      company: SIAT(Shenzhen Institute of Advanced Technology,Chinese Academy of Sciences)
       details: |
-          - 独自进行NN_ASIC（神经网络加速器）VCS+Verdi 仿真环境搭建和脚本编写，已完成
-          - SPI2APB模块设计，已完成
-          - LSTM（长短期记忆网络）模块设计，并集成进NN_ASIC芯片中，进行中
-          - 基于SMIC 40nm LL工艺的NN_ASIC芯片后端物理设计，已迭代一次，进行中
-          - 参与芯片DC综合工作，进行中
-          - 神经网络加速芯片计算结构优化设计以达到优化面积和功耗的目的，进行中
+          - Completed the construction of NN_ASIC(Neural Network Accelerator ASIC) VCS+VERDI simulation environment and script writing
+          - Completed the design of SPI2APB module
+          - Being processed that LSTM (Long and Short Term Memory Network) module design, and integration with NN_ASIC chip
+          - Being processed that the physical design of NN_ASIC chip backend based on SMIC 40nm LL process, iterated once
+          - Being processed that optimize the computing structure of chip core to achieve the purpose of reducing the area 
+          - Participating in chip DC synthesis work
 
 projects:
     title: Projects
     assignments:
       - title: Vcs+Verdi Simulation Script
         link: "https://liangchen01xz.github.io/2021/01/18/vcs-sim-scr/"
-        tagline: ""
+        #tagline: ""
 
-      - title: EDA课程实践
+      - title: EDA Course Practice
         link: "https://liangchen01xz.github.io/2021/02/01/EDA-course-design/"
-        tagline: ""
+        #tagline: ""
 
-      - title: Verilog课程设计
+      - title: Verilog Coruse Design
         link: "https://liangchen01xz.github.io/2021/02/02/verilog-course-design/"
-        tagline: ""
+        #tagline: ""
 
-      - title: FPGA驱动TFT屏显示图片
+      - title: Display pictures on TFT screen by FPGA
         link: "https://liangchen01xz.github.io/2020/03/18/FPGA-TFT-img-prj/"
-        tagline: ""
+        #tagline: ""
 
-      - title: Python爬取网络图片
+      - title: Crawl web pages via Python
         link: "https://liangchen01xz.github.io/2020/03/11/Python-Spider-prj/"
-        tagline: ""
+        #tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
